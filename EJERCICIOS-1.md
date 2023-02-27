@@ -3,7 +3,7 @@
 ### ***Bloque 1***
 1. Crea la siguiente estructura de carpetas:
    &nbsp;
-   ![Estructura de Carpetas](https://github.com/formaciones/ms-dos/diagrama.png)
+   ![Estructura de Carpetas](https://github.com/formaciones/ms-dos/blob/main/diagrama.png)
    &nbsp;
 2. Sitúate en la carpeta TABLAS
 3. Vuelve a la carpeta raíz
