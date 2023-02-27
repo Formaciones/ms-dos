@@ -2,9 +2,6 @@
 
 Todos los sistemas operativos MSDOS y Windows incluyen una serie de comandos que permiten trabajar con el sistema operativo. Los comando son denominados comandos CMD, comandos de DOS o comandos MS-DOS.
 
-&nbsp;&nbsp;
----
-&nbsp;
 ### ***MATERIAL DE APOYO***
 * [*Hoja de Referencia - Comandos MS-DOS*](https://github.com/formaciones/ms-dos/blob/main/MSDOS_CommandsReference.pdf)
 * [*Hoja de Referencia - Comandos Windows*](https://github.com/formaciones/ms-dos/blob/main/Windows_CommandsReference.pdf)
