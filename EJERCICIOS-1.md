@@ -17,13 +17,13 @@
 12. Desde PRACT muestra el contenido de WORD
 13. Utilizando el editor de textos de MS-DOS, crea un archivo de texto denominado EJER.TXT, con el siguiente contenido, y almacénalo dentro de la carpeta TEXTOS (dentro de la estructura del ejercicio anterior):
 > La información dentro de los discos se almacena en forma de archivos. Un archivo o fichero es un conjunto de datos que MS-DOS almacena en un disco y cuyo control interno es realizado por el sistema operativo, aunque desde el punto de vista lógico el control es del usuario
-1.  Copia el archivo EJER.TXT en AGENDA
-2.  Borra el archivo almacenado en la carpeta TEXTOS
-3.  Añade el siguiente párrafo al archivo EJER.TXT:
+14.  Copia el archivo EJER.TXT en AGENDA
+15.  Borra el archivo almacenado en la carpeta TEXTOS
+16.  Añade el siguiente párrafo al archivo EJER.TXT:
 > Cada archivo tiene un nombre y una extensión que los distingue del resto de archivos
-1.  Copia el archivo EJER.TXT en la carpeta BASIC
-2.  Cambia el nombre del archivo almacenado en AGENDA por FICHERO.TXT
-3.  Mueve el archivo FICHERO.TXT a la carpeta BASIC
-4.  Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC
-5.  Copia el archivo NUEVO.TXT en la carpeta NOTAS
-6.  ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
+17.  Copia el archivo EJER.TXT en la carpeta BASIC
+18.  Cambia el nombre del archivo almacenado en AGENDA por FICHERO.TXT
+19.  Mueve el archivo FICHERO.TXT a la carpeta BASIC
+20.  Abre el archivo EJER.TXT y borra la primera frase; almacena el nuevo archivo con el nombre NUEVO.TXT dentro de la carpeta BASIC
+21.  Copia el archivo NUEVO.TXT en la carpeta NOTAS
+22.  ¿Cuántos archivos hay en la carpeta BASIC? ¿Y en NOTAS?
